@@ -11,7 +11,7 @@ class mmm{
         return a;
     }
 
-    double sss(int a){
-        return a;
+    double sss(int a, int b){
+        return a+b;
     }
 }
